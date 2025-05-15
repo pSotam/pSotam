@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor | 🎸 Músico |
 
-- 🌱 Atualmente aprendendo Python
-- 📫 Me contate em: pietromatoscontato@gmail.com
+- 🌱 Learning Python
+- 📫 Contact: pietromatoscontato@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pSotam&show_icons=true&theme=tokyonight)
