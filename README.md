@@ -1,6 +1,6 @@
 ### Pietro Matos
 ------------------
-|🌱 Junior |🇧🇷 Brazilian|
+|🌱 Junior |Brazilian|
 
 - 💻 Learning Python
 - 📫 Contact: pietromatoscontato@gmail.com
