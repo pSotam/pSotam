@@ -17,6 +17,9 @@ High School
 
 ### Languages
 ------------------
- - Portuguese (Native)
- - English (Advanced)
- - Spanish (Basic)
+ ### - Portuguese
+ (Native)
+ ### - English
+ (Advanced)
+ ### - Spanish
+ (Basic)
