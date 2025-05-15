@@ -1,6 +1,6 @@
 ### Pietro Matos
 ------------------
-|🌱 Junior |
+|🌱 Junior |🇧🇷 Brazilian|
 
 - 💻 Learning Python
 - 📫 Contact: pietromatoscontato@gmail.com
@@ -17,9 +17,6 @@ High School
 
 ### Languages
 ------------------
- - Portuguese
-Native
- - English
-Advanced
- - Spanish
-Basic
+ - Portuguese (Native)
+ - English (Advanced)
+ - Spanish (Basic)
