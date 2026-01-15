@@ -2,7 +2,7 @@
 ------------------
 |🌱 Junior | Brazilian |
 
-- 💻 Learning Python and C#
+- 💻 Learning Python and Git+Github
 - 📫 Contact: pietromatoscontato@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pSotam&show_icons=true&theme=tokyonight)
