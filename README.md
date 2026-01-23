@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f37c9&height=120&section=header"/>
 
+---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f37c9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pietro+Matos;I'm+15+years+old;I+am+from+ItaimㅤPaulista,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
@@ -26,6 +28,11 @@
 ### Studying:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+### Languages
+ - Portuguese (Native)
+ - English (Advanced)
+ - Spanish (Basic)
+---
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
