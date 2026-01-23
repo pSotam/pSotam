@@ -11,6 +11,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pSotam&layout=compact&hide_border=true&title_color=3f37c9&text_color=3f37c9&bg_color=0d1117" />
 </div>
 
+###Contacts:
+ - ✉ Email: pietromatoscontato@gmail.com
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pSotam&bg_color=000000&color=3f37c9&line=3f37c9&point=3f37c9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
